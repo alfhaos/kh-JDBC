@@ -1,6 +1,6 @@
 package com.kh.member.model.vo;
 
-import java.security.Timestamp;
+import java.sql.Timestamp;
 import java.sql.Date;
 
 /*

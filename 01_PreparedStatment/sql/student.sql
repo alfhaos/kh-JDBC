@@ -57,3 +57,8 @@ insert into
 values(
     'sinsa','신사임당','F','1954-10-19','sinsa@naver.com','경상남도 함양시 안의면 1234',default
 );
+
+
+select * from member;
+
+commit;
